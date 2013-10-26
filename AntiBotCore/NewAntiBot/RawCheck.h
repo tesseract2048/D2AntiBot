@@ -1,0 +1,2 @@
+int IScanInit();
+int IScanInterval();

@@ -1,0 +1,1 @@
+DWORD WINAPI ChildMain(LPVOID lpParam);

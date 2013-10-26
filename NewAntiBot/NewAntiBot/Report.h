@@ -1,0 +1,1 @@
+int SendReport(int diff);
